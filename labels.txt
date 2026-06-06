@@ -1,0 +1,3 @@
+0 estanterias vacia
+1 estanterias medio vacias
+2 estanterias llenas
